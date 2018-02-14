@@ -1,0 +1,4 @@
+chainer
+tensorflow
+tensorboard
+tensorboardX
